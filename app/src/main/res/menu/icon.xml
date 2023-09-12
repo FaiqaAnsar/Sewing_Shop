@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Rate"
+            android:title="Rate Us"
+            android:icon="@drawable/ic_baseline_rate_review_24"
+            >
+        </item>
+        <item
+            android:id="@+id/about"
+            android:title="About Us"
+            android:icon="@drawable/ic_baseline_account_box_24">
+        </item>
+
+    </group>
+
+</menu>

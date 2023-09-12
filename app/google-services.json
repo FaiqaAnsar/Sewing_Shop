@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972837420898",
+    "firebase_url": "https://sewingshopproject-default-rtdb.firebaseio.com",
+    "project_id": "sewingshopproject",
+    "storage_bucket": "sewingshopproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972837420898:android:f440a18def449cccef363b",
+        "android_client_info": {
+          "package_name": "com.example.sewingshopproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972837420898-umt7clmlojfpctedovd8nhcptn9ibs6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATPbBp3Giik7PyLFNNhxqRKw9oCgAo2ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972837420898-umt7clmlojfpctedovd8nhcptn9ibs6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

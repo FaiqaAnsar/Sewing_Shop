@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AboutUs">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+             <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:orientation="vertical">
+
+                <TextView
+
+                    android:layout_marginLeft="60dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Profile Information"
+                    android:textStyle="bold"
+                    android:textSize="26sp"
+                    android:textColor="#000"
+                    android:layout_marginTop="40dp"
+                    />
+
+
+
+
+
+                    <ImageView
+                        android:layout_marginTop="40dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="165dp"
+                        android:src="@drawable/noman"
+                        />
+
+
+
+                    <TextView
+
+                        android:layout_marginTop="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Name:"
+                        android:layout_marginLeft="70dp"
+                        android:textColor="#000000"
+                        android:textSize="15sp"/>
+
+                    <TextView
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Nouman Ali"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:textColor="#000000"
+                        android:textColorHint="#808080"
+                        android:background="#00000000"
+                        android:textSize="15sp"
+                        />
+
+                    <TextView
+
+                        android:layout_marginTop="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Email:"
+                        android:layout_marginLeft="70dp"
+                        android:textColor="#000000"
+                        android:textSize="15sp"/>
+
+                    <TextView
+                        android:layout_marginLeft="40dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="19021519-060@uog.edu.pk"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:textColor="#000000"
+                        android:textColorHint="#808080"
+                        android:background="#00000000"
+                        android:textSize="15sp"
+                        />
+
+                    <TextView
+
+                        android:layout_marginTop="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Work As:"
+                        android:layout_marginLeft="70dp"
+                        android:textColor="#000000"
+                        android:textSize="15sp"/>
+
+                    <TextView
+                        android:layout_marginLeft="40dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Developer"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:textColor="#000000"
+                        android:textColorHint="#808080"
+                        android:background="#00000000"
+                        android:textSize="15sp"/>
+
+
+
+
+
+
+
+
+
+
+
+
+                    <ImageView
+                        android:layout_marginTop="40dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="165dp"
+                        android:src="@drawable/amna"
+                        />
+
+
+
+                    <TextView
+
+                        android:layout_marginTop="40dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Name:"
+                        android:layout_marginLeft="70dp"
+                        android:textColor="#000000"
+                        android:textSize="15sp"/>
+
+                    <TextView
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Amna Mubashra"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:textColor="#000000"
+                        android:textColorHint="#808080"
+                        android:background="#00000000"
+                        android:textSize="15sp"
+                        />
+
+                    <TextView
+
+                        android:layout_marginTop="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Email:"
+                        android:layout_marginLeft="70dp"
+                        android:textColor="#000000"
+                        android:textSize="15sp"/>
+
+                    <TextView
+                        android:layout_marginLeft="40dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="19021519-014@uog.edu.pk"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:textColor="#000000"
+                        android:textColorHint="#808080"
+                        android:background="#00000000"
+                        android:textSize="15sp"
+                        />
+
+                    <TextView
+
+                        android:layout_marginTop="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Work As:"
+                        android:layout_marginLeft="70dp"
+                        android:textColor="#000000"
+                        android:textSize="15sp"/>
+
+                    <TextView
+                        android:layout_marginLeft="40dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Developer"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:textColor="#000000"
+                        android:textColorHint="#808080"
+                        android:background="#00000000"
+                        android:textSize="15sp"/>
+
+
+
+
+
+
+
+
+
+
+
+            <ImageView
+                android:layout_marginTop="40dp"
+                android:layout_width="match_parent"
+                android:layout_height="165dp"
+                android:src="@drawable/faiqa"
+                />
+
+
+
+            <TextView
+
+                android:layout_marginTop="40dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Name:"
+                android:layout_marginLeft="70dp"
+                android:textColor="#000000"
+                android:textSize="15sp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Faiqa Ansar"
+                android:gravity="center"
+                android:padding="10dp"
+                android:textColor="#000000"
+                android:textColorHint="#808080"
+                android:background="#00000000"
+                android:textSize="15sp"
+                />
+
+            <TextView
+
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Email:"
+                android:layout_marginLeft="70dp"
+                android:textColor="#000000"
+                android:textSize="15sp"/>
+
+            <TextView
+                android:layout_marginLeft="40dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="19021519-042@uog.edu.pk"
+                android:gravity="center"
+                android:padding="10dp"
+                android:textColor="#000000"
+                android:textColorHint="#808080"
+                android:background="#00000000"
+                android:textSize="15sp"
+                />
+
+            <TextView
+
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Work As:"
+                android:layout_marginLeft="70dp"
+                android:textColor="#000000"
+                android:textSize="15sp"/>
+
+            <TextView
+                android:layout_marginLeft="40dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Developer"
+                android:gravity="center"
+                android:padding="10dp"
+                android:textColor="#000000"
+                android:textColorHint="#808080"
+                android:background="#00000000"
+                android:textSize="15sp"/>
+
+
+
+
+
+
+
+
+
+             </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
